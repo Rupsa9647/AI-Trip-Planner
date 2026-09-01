@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-experimental
+python-dotenv
+flask
+uvicorn
+flask_cors
+pydantic
+httpx
+requests
+langchain_google_community
+langchain_tavily
+langchain_groq
+langgraph
+langchain-google-community[places]
+
+-e .
