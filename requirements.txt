@@ -3,6 +3,7 @@ langchain-community
 langchain-experimental
 python-dotenv
 flask
+gunicorn
 uvicorn
 flask_cors
 pydantic
